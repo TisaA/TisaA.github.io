@@ -1,0 +1,37 @@
+{
+ 
+  "name": "webapp",
+ 
+  "version": "1.0.0",
+ 
+  "main": "index.js",
+ 
+  "scripts": {
+ 
+   
+  "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+ 
+  },
+ 
+  "keywords": [],
+ 
+  "author": "",
+ 
+  "license": "ISC",
+ 
+  "description": "",
+ 
+  "dependencies": {
+ 
+   
+  "tailwindcss": "^2.2.19"
+ 
+  },
+ 
+  "devDependencies": {
+ 
+   
+  "html5-qrcode": "^2.1.3"
+ 
+  }
+}
